@@ -71,4 +71,4 @@ jupyter notebook
 
 ## Results
 <img src = "https://github.com/sayonpalit2599/p1_navigation/blob/master/plot.jpg" alt = "result">
-The current model solves the environment in 700-750 epsiodes on average.
+The current model solves the environment in 400-500 epsiodes on average.
